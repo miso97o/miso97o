@@ -38,4 +38,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-[Portfolio](https://www.notion.so/4784b000d73d4f9ebc8c4f37267d2758?p=2bdad7484c6740a6a0c87a39f434ca49&pm=c)
+[Portfolio](https://educated-gauge-feb.notion.site/4784b000d73d4f9ebc8c4f37267d2758)
